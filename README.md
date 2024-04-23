@@ -1,4 +1,4 @@
-Here is a school project I completed in Fall 2022, the goal is to conduct a data analysis on 6000 movie reviews using Numpy and panda. 
+Here is a school project I completed in Fall 2022, the goal is to conduct a data analysis on 1 million movie reviews using Numpy and Panda. 
 Below is the screenshot I took from the result.
 
 ![1](https://github.com/keak/Movies-rating-/assets/25583192/7ceb2766-6bdf-4721-b15f-915339a3a067)
